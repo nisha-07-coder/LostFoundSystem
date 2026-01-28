@@ -32,5 +32,5 @@ src/
 #  Database Test
 Run `TestDBConnection.java` to verify database connectivity.
 
-# 👩‍💻 Author
+# Author
 Nisha
