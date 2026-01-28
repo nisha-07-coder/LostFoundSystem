@@ -10,9 +10,9 @@ public class TestDBConnection {
 
         // Check connection
         if (con != null) {
-            System.out.println("✅ Database Connected Successfully");
+            System.out.println(" Database Connected Successfully");
         } else {
-            System.out.println("❌ Database Connection Failed");
+            System.out.println(" Database Connection Failed");
         }
     }
 }
